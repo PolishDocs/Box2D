@@ -2,7 +2,7 @@
 
 Ten projekt to jedynie przetłumaczona dokumentacja [Box2D](https://github.com/erincatto/Box2D) w wersji 2.3.0 na język polski. Oryginał znajdziesz [tutaj](http://box2d.org/manual.pdf). 
 Wszelkie prawa należą do [Erina Catto](https://github.com/erincatto/), twórcy Box2D. 
----
+* * *
 Note that this project is just a translation of [Box2D](https://github.com/erincatto/Box2D) documentation. Original can be found [here](http://box2d.org/manual.pdf). All rights belong do [Erin Catto](https://github.com/erincatto/), creator of Box2D.
 
 ##Czym jest Box2D ?
